@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://resume.tafluk.com/sitemap.xml
+Disallow: /ghost/
